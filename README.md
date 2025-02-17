@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Utkarsh</h1>
+<h1 align="center">Hi, I'm Utkarsh, and I build web applications</h1>
 
 # 💻 Tech Stack:
 <div align="center">
