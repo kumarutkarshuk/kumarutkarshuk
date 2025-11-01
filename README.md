@@ -13,4 +13,6 @@
 	<code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 	<code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python"/></code>
+	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter"/>
+	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka"/>
 </div>
